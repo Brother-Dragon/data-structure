@@ -13,7 +13,7 @@ public class MaxProduct {
     }
     public static int maxProduct(String[] words) {
         int length = words.length, index = 0;
-        int[] mask = new int[26];
+        int[] mask = new int[n];
         for (String word : words) {
             int t = 0;
             for (int i = 0; i < word.length(); i++) {
