@@ -7,7 +7,7 @@ import java.util.List;
  * 键盘行
  *
  * @author 菠萝凤梨
- * @create 2021/10/31 11:26
+ * @date 2021/10/31 11:26
  */
 public class FindWords {
     static String[] printWords = new String[]{"qwertyuiop", "asdfghjkl", "zxcvbnm"};

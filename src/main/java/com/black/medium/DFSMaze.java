@@ -7,7 +7,7 @@ import java.util.Queue;
  * 迷宫,八皇后应该也是此法
  *
  * @author 菠萝凤梨
- * @create 2021/11/2 21:02
+ * @date 2021/11/2 21:02
  */
 public class DFSMaze {
     class Node {

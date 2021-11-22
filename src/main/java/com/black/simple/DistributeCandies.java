@@ -7,7 +7,7 @@ import java.util.Set;
  * 恰糖果
  *
  * @author 菠萝凤梨
- * @create 2021/11/1 20:42
+ * @date 2021/11/1 20:42
  */
 public class DistributeCandies {
     public int distributeCandies(int[] candyType) {

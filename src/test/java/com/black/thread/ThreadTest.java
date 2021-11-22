@@ -1,8 +1,7 @@
 package com.black.thread;
 
-import org.junit.Test;
-
 import com.thread.RunObj;
+import org.junit.Test;
 
 /**
  * @author Citrus
@@ -11,6 +10,7 @@ import com.thread.RunObj;
 public class ThreadTest {
     /**
      * wait()使当前线程进入等待状态。直到其他线程调用此对象的 notify() 方法或 notifyAll() 方法。
+     *
      * @throws Exception
      */
     @Test

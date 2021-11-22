@@ -3,7 +3,7 @@ package com.black.simple;
 /**
  * 检测正确的大写字母用法
  * @author 菠萝凤梨
- * @create 2021/11/13 13:35
+ * @date 2021/11/13 13:35
  */
 public class DetectCapitalUse {
     public boolean detectCapitalUse(String word) {

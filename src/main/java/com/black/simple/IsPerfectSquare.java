@@ -4,7 +4,7 @@ package com.black.simple;
  * 是否为有效的完全平方数
  *
  * @author 菠萝凤梨
- * @create 2021/11/4 20:51
+ * @date 2021/11/4 20:51
  */
 public class IsPerfectSquare {
     public boolean isPerfectSquare(int num) {

@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 啊哈算法中 宝岛探险 分别用广度和深度实现
  *
  * @author 菠萝凤梨
- * @create 2021/11/11 20:21
+ * @date 2021/11/11 20:21
  */
 public class Adventure {
     static class Node {

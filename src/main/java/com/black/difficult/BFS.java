@@ -8,7 +8,7 @@ import java.util.Scanner;
  * 啊哈算法中解救小哈 广度优先算法
  *
  * @author 菠萝凤梨
- * @create 2021/11/10 20:45
+ * @date 2021/11/10 20:45
  */
 public class BFS {
     static class Node {

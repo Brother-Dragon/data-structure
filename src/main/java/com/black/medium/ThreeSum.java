@@ -11,7 +11,7 @@ import java.util.List;
  * [[-1,-1,2],[-1,0,1]]
  *
  * @author 菠萝凤梨
- * @create 2021/10/29 21:12
+ * @date 2021/10/29 21:12
  */
 public class ThreeSum {
     public List<List<Integer>> threeSum(int[] nums) {

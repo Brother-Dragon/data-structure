@@ -28,6 +28,8 @@ public class RunObj extends Object {
         synchronized (synList) {
             while (synList.isEmpty()) {
                 System.out.println("List is empty...");
+                //holdsLock-当且仅当对象obj的监视器被某条线程持有的时候返回true
+                System.out.println(Thread.holdsLock(synList));
                 synList.wait();
                 System.out.println("synList is waiting...");
             }

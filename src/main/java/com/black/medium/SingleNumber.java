@@ -8,7 +8,7 @@ import java.util.Map;
  * 给定一个整数数组 nums，其中恰好有两个元素只出现一次，其余所有元素均出现两次。 找出只出现一次的那两个元素。
  *
  * @author 菠萝凤梨
- * @create 2021/10/30 20:38
+ * @date 2021/10/30 20:38
  */
 public class SingleNumber {
     public static void main(String[] args) {

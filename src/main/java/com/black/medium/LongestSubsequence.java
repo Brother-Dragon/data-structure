@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 最长定差子序列
  * @author 菠萝凤梨
- * @create 2021/11/5 21:06
+ * @date 2021/11/5 21:06
  */
 public class LongestSubsequence {
     public int longestSubsequence(int[] arr, int difference) {
